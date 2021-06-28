@@ -98,7 +98,7 @@
     "grunt": "^1.1.0",
     "grunt-bump": "^0.8.0",
     "grunt-changelog": "^0.3.2",
-    "prettier": "2.0.5",
+    "prettier": "2.3.2",
     "source-map-explorer": "^2.5.0",
     "webpack": "^4.42.0"
   },
