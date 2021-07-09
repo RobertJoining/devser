@@ -100,7 +100,7 @@
     "grunt-changelog": "^0.3.2",
     "prettier": "2.0.5",
     "source-map-explorer": "^2.5.0",
-    "webpack": "^4.42.0"
+    "webpack": "^5.44.0"
   },
   "license": "MIT"
 }
